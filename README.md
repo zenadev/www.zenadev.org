@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# www.zenadev.org
+Static website of ZenaDev, the software developers user group for the Genova area (Italy).
+
+## Using GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zenadev/www.zenadev.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
