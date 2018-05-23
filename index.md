@@ -20,7 +20,7 @@ Please reach out to [zenadev@grusp.org][mail] if you need to get in touch with a
 
 ### Recognition
 
-We are sponsored by [GrUSP][grusp], one of the biggest italian associations of software developers.
+We are sponsored by [GrUSP][grusp], one of the biggest Italian associations of software developers.
 
 ||
 |:--:|
