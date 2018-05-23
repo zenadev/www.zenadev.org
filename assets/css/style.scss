@@ -12,3 +12,9 @@ header {
         float: right;
     }
 }
+
+#main_content {
+    img[alt="GrUSP"] {
+        max-width: 200px;
+    }
+}
