@@ -7,6 +7,17 @@ You can use the [editor on GitHub](https://github.com/zenadev/www.zenadev.org/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Running Jekyll locally
+
+Make sure you have [Ruby][ruby] and [Bundler][bundler] installed; clone the repo, and run Jekyll as follows:
+
+```bash
+bundle install --path vendor/bundle
+bundle exec jekyll serve
+```
+  [ruby]: https://www.ruby-lang.org
+  [bundler]: https://bundler.io
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
