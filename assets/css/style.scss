@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    h2 {
+        display: inline-block;
+    }
+    #downloads {
+        display: inline-block;
+        float: right;
+    }
+}
