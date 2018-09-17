@@ -4,6 +4,13 @@
 @import "{{ site.theme }}";
 
 header {
+    .homelink {
+        text-decoration: none;
+        color: inherit;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
     h2 {
         display: inline-block;
     }
@@ -16,5 +23,11 @@ header {
 #main_content {
     img[alt="GrUSP"] {
         max-width: 200px;
+    }
+    a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }
