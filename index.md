@@ -10,7 +10,7 @@ Everybody is welcome and we always look for speakers, expecially first timers!
 
 ### Code of Conduct
 
-T.B.D.
+To ensure a healthy and welcoming environment, every participant to the activities of the group should abide by the rules of our [Code of Conduct](code-of-conduct.md), which basically boils down to being respectful and decent.
 
 
 ### Contacts
